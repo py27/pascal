@@ -1,8 +1,7 @@
 {Program: Halfpill }
-{By Roohan Kunta - rkunt3}
-{Submitted on Nov 22, 2017 for Class CSC 540}
+{By - rkunt}
 
-Program HalfPills_kunta;
+Program HalfPills_rkunt;
 { Half pills generator, it will calculate the probability of choosing a
 * pill out of a bottle every time and track the ratios.}
 
